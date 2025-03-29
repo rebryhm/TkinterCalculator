@@ -55,7 +55,7 @@ b.place(x = 80 , y = 240)
 def sub():
     n1 = e.get()
     global math
-    math = "Subtraction"
+    math = "subtraction"
     global i
     i = int(n1)
     e.delete(0, END)
